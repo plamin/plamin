@@ -1,42 +1,62 @@
-# Pedro Lamin
+<p align="center">
+  <img src="./profile-banner.svg" width="100%" alt="Pedro Lamin — Dados, Cloud e Inteligência Artificial" />
+</p>
 
-**Estagiário de Dados no Itaú | Engenharia de Dados • AWS • Python • SQL • Java**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+Java;Dados%2C+automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%B5es;Construindo+minha+trajet%C3%B3ria+em+Engenharia+de+Dados" alt="Python, SQL, AWS e Java. Dados, automação e integrações." />
+</p>
 
-Estudante de Engenharia de Software na FIAP e técnico em Redes de Computadores pelo IFSP. Atuo com dados, automações e integrações, com foco de carreira em Engenharia de Dados. Também desenvolvo projetos de backend e aplicações com inteligência artificial.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-lamin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://portfolio-lamin.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1929?style=for-the-badge&amp;logo=vercel&amp;logoColor=38bdf8" alt="Portfólio" /></a>
+  <a href="mailto:pedrolaminrdg@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1929?style=for-the-badge&amp;logo=gmail&amp;logoColor=38bdf8" alt="E-mail" /></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/pedro-lamin/) · [Portfólio](https://portfolio-lamin.vercel.app) · [E-mail](mailto:pedrolaminrdg@gmail.com)
+### 👋 Um pouco sobre mim
 
-## Sobre mim
+Sou **Pedro**, estagiário de Dados no **Itaú**, estudante de Engenharia de Software na **FIAP** e técnico em Redes de Computadores pelo **IFSP**. Trabalho com dados, automações e integrações e estou construindo minha carreira em **Engenharia de Dados**.
 
-- **Itaú:** estágio em Dados, com experiência em automação de processos e integração de sistemas.
-- **Formação:** Engenharia de Software — FIAP, em andamento; técnico em Redes de Computadores — IFSP, concluído.
-- **Certificação:** AWS Certified Cloud Practitioner.
-- **Em preparação:** AWS Certified AI Practitioner, com prova planejada para dezembro de 2026.
-- **Interesses:** pipelines de dados, ETL, cloud, APIs e uso de IA para apoiar decisões.
-
-## Projetos em destaque
-
-| Projeto | O que resolve | Tecnologias e conceitos |
-| --- | --- | --- |
-| [EasifyAI](https://github.com/plamin/easify) | API acadêmica para análise de transcrições de vendas B2B, com integração de IA, regras comerciais e persistência. | Java, Spring Boot, Gemini, Oracle, JDBC, API REST |
-| [Dashboard La Liga](https://github.com/plamin/graficos-laliga) | Dashboard interativo para explorar estatísticas de futebol a partir de uma API, com gráficos e exportação de dados. | Python, Streamlit, Pandas, Plotly, consumo de APIs |
-| [ExoScan](https://github.com/plamin/exoplaneta-ddd-java) | Projeto acadêmico em equipe para importar catálogos de exoplanetas e calcular um índice de habitabilidade. | Java, DDD, orientação a objetos, CSV, eventos de domínio |
-
-## Tecnologias
-
-| Área | Ferramentas e conhecimentos |
-| --- | --- |
-| Dados | Python, SQL, Pandas, PySpark, ETL |
-| Cloud | AWS Glue, Athena, QuickSight |
-| Backend e IA | Java, Spring Boot, APIs REST, integração com Gemini |
-| Bancos de dados | Oracle, modelagem relacional |
-| Automação | Power Automate, Power Apps, SharePoint |
-| Desenvolvimento | Git, GitHub, Postman |
-
-## O que estou aprofundando
-
-Engenharia de Dados na AWS, processamento com Spark e fundamentos de IA generativa. Busco conectar o desenvolvimento técnico a problemas de negócio, com atenção à qualidade dos dados e à clareza das soluções.
+☁️ **AWS Certified Cloud Practitioner** · 🧠 AI Practitioner em preparação para dezembro/2026  
+🔎 Aprofundando **Spark, pipelines de dados e IA generativa**.
 
 ---
 
-**Vamos conversar?** Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/pedro-lamin/) ou por [e-mail](mailto:pedrolaminrdg@gmail.com).
+### 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,aws,spring,git,github,postman&amp;theme=dark" alt="Python, Java, AWS, Spring, Git, GitHub e Postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-0d1929?style=for-the-badge&amp;logoColor=38bdf8" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-0d1929?style=for-the-badge&amp;logo=pandas&amp;logoColor=38bdf8" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PySpark-0d1929?style=for-the-badge&amp;logo=apachespark&amp;logoColor=38bdf8" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Oracle-0d1929?style=for-the-badge" alt="Oracle" />
+  <img src="https://img.shields.io/badge/ETL-0d1929?style=for-the-badge" alt="ETL" />
+</p>
+
+<p align="center">
+  <sub><b>Cloud:</b> AWS Glue · Athena · QuickSight<br />
+  <b>Automação:</b> Power Automate · Power Apps · SharePoint</sub>
+</p>
+
+### 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/plamin/easify"><img src="./project-easify.svg" width="760" alt="EasifyAI: API acadêmica de análise de transcrições B2B com Java, Spring Boot, Gemini e Oracle. Abrir repositório." /></a>
+  <br /><br />
+  <a href="https://github.com/plamin/graficos-laliga"><img src="./project-laliga.svg" width="760" alt="Dashboard La Liga: análise e visualização de estatísticas com Python, Pandas, Streamlit e Plotly. Abrir repositório." /></a>
+  <br /><br />
+  <a href="https://github.com/plamin/exoplaneta-ddd-java"><img src="./project-exoscan.svg" width="760" alt="ExoScan: projeto acadêmico em equipe para análise de habitabilidade de exoplanetas com Java e DDD. Abrir repositório." /></a>
+</p>
+
+<p align="center">
+  <sub><a href="https://github.com/plamin/easify">EasifyAI</a> · <a href="https://github.com/plamin/graficos-laliga">La Liga Dashboard</a> · <a href="https://github.com/plamin/exoplaneta-ddd-java">ExoScan</a></sub>
+</p>
+
+---
+
+<p align="center">
+  <b>Dados, código e aprendizado contínuo.</b><br /><br />
+  <a href="https://www.linkedin.com/in/pedro-lamin/">Vamos conversar no LinkedIn ↗</a>
+</p>
