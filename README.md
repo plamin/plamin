@@ -12,16 +12,16 @@
   <a href="mailto:pedrolaminrdg@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1929?style=for-the-badge&amp;logo=gmail&amp;logoColor=38bdf8" alt="E-mail" /></a>
 </p>
 
-### 👋 Um pouco sobre mim
+### Um pouco sobre mim
 
 Sou **Pedro**, estagiário de Dados no **Itaú**, estudante de Engenharia de Software na **FIAP** e técnico em Redes de Computadores pelo **IFSP**. Trabalho com dados, automações e integrações e estou construindo minha carreira em **Engenharia de Dados**.
 
-☁️ **AWS Certified Cloud Practitioner** · 🧠 AI Practitioner em preparação para dezembro/2026  
-🔎 Aprofundando **Spark, pipelines de dados e IA generativa**.
+**AWS Certified Cloud Practitioner** · AI Practitioner em preparação para dezembro/2026  
+Aprofundando **Spark, pipelines de dados e IA generativa**.
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,aws,spring,git,github,postman&amp;theme=dark" alt="Python, Java, AWS, Spring, Git, GitHub e Postman" />
@@ -40,7 +40,7 @@ Sou **Pedro**, estagiário de Dados no **Itaú**, estudante de Engenharia de Sof
   <b>Automação:</b> Power Automate · Power Apps · SharePoint</sub>
 </p>
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 <p align="center">
   <a href="https://github.com/plamin/easify"><img src="./project-easify.svg" width="760" alt="EasifyAI: API acadêmica de análise de transcrições B2B com Java, Spring Boot, Gemini e Oracle. Abrir repositório." /></a>
