@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Pedro Lamin — Dados, Cloud e Inteligência Artificial">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#112c46"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#93c5fd" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/><rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="#38bdf8" stroke-opacity=".3" stroke-width="2"><path d="M830 90h100l60 80-60 80H830l-60-80z"/><path d="M930 90l100-40 100 120-100 120-100-40M990 170h140M830 90v160M770 170h220"/></g>
+<g fill="#2dd4bf"><circle cx="830" cy="90" r="6"/><circle cx="990" cy="170" r="8"/><circle cx="930" cy="250" r="6"/><circle cx="1130" cy="170" r="5"/></g>
+<rect x="64" y="65" width="54" height="5" rx="2" fill="url(#accent)"/>
+<text x="64" y="115" fill="#67e8f9" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">DADOS · CLOUD · INTELIGÊNCIA ARTIFICIAL</text>
+<text x="60" y="190" fill="#f8fafc" font-family="Arial,sans-serif" font-size="66" font-weight="700">Pedro Lamin</text>
+<text x="64" y="235" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="22">Transformando dados em soluções.</text>
+<text x="64" y="293" fill="#94a3b8" font-family="Arial,sans-serif" font-size="16">ESTAGIÁRIO DE DADOS @ ITAÚ   /   AWS CERTIFIED   /   FIAP</text>
+</svg>
