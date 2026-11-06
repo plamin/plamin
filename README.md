@@ -36,7 +36,7 @@ Sou **Pedro**, estagiário de Dados no **Itaú**, estudante de Engenharia de Sof
 </p>
 
 <p align="center">
-  <sub><b>Cloud:</b> AWS Glue · Athena · QuickSight<br />
+  <sub><b>Cloud:</b> AWS<br />
   <b>Automação:</b> Power Automate · Power Apps · SharePoint</sub>
 </p>
 
