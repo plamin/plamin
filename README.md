@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+Java;Dados%2C+automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%B5es;Construindo+minha+trajet%C3%B3ria+em+Engenharia+de+Dados" alt="Python, SQL, AWS e Java. Dados, automação e integrações." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+Java;Dados%2C+automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%B5es;" alt="Python, SQL, AWS e Java. Dados, automação e integrações." />
 </p>
 
 <p align="center">
